@@ -7,5 +7,6 @@ int main(){
     for(;a<5;a++){
         printf("mint ma ao rai\n");
     }
+    int b;
     return 0;
 }
